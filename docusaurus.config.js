@@ -174,6 +174,11 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'nettySidebar',
                 label: 'netty',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'linuxSidebar',
+                label: 'linux',
               }
             ]
           },
