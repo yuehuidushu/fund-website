@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/docs/MyBatis/1.Mybatis面试题.md" charset="GBK" />
     <file url="file://$PROJECT_DIR$/docs/mysql/1.Mysql基础.md" charset="GBK" />
     <file url="file://$PROJECT_DIR$/docs/mysql/10.Mysql优化.md" charset="GBK" />
     <file url="file://$PROJECT_DIR$/docs/mysql/11.Mysql工具.md" charset="GBK" />
