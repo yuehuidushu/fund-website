@@ -20,6 +20,11 @@
     <file url="file://$PROJECT_DIR$/docs/mysql/8.Mysql日志.md" charset="GBK" />
     <file url="file://$PROJECT_DIR$/docs/mysql/9.Mysql索引相关.md" charset="GBK" />
     <file url="file://$PROJECT_DIR$/docs/mysql/images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/network/1.base.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/network/2.HTTP" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/network/3.TCP" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/network/4.IP" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/network/images" charset="GBK" />
     <file url="file://$PROJECT_DIR$/docs/spring/common.md" charset="GBK" />
     <file url="file://$PROJECT_DIR$/docs/spring/images" charset="GBK" />
     <file url="file://$PROJECT_DIR$/docs/spring/spring-aop.md" charset="GBK" />
