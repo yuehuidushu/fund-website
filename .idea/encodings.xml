@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/docs/mysql/1.Mysql基础.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/mysql/10.Mysql优化.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/mysql/11.Mysql工具.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/mysql/12.Mysql字段相关.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/mysql/13.mysq缓存机制.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/mysql/2.Mysql结构.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/mysql/3.存储引擎.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/mysql/4.存储过程和函数.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/mysql/5.触发器和时间调度器.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/mysql/6.锁相关.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/mysql/7.事务.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/mysql/8.Mysql日志.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/mysql/9.Mysql索引相关.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/mysql/images" charset="GBK" />
+  </component>
+</project>
