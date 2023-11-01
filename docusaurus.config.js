@@ -169,6 +169,11 @@ const config = {
                 type: 'docSidebar',
                 sidebarId: 'kafkaSidebar',
                 label: 'kafka',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'nettySidebar',
+                label: 'netty',
               }
             ]
           },
