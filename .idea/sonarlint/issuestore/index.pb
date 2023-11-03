@@ -9,8 +9,6 @@ R
 "blog/2019-05-28-first-blog-post.md,5/3/5343e4fb17e1e3a74d5974f8bae0ba43ff94eea5
 T
 $docs/operationSystem/_category_.json,9/8/981bb1107dccfce7da133a200276280e55d3c822
-N
-docs/algorithm/_category_.json,d/4/d4ca83e58efbe6cf2de24ad04e84b1cc6cefba76
 Y
 )docs/java/java_concurrent/_category_.json,8/5/85850575e6dca895ced9ae1872f4dfe14010f628
 =
@@ -81,8 +79,6 @@ R
 "docs/MyBatis/1.Mybatis面试题.md,a/9/a9406a88d079b3e77125fc91c52d9681a0239c07
 E
 docs/MyBatis/intro.md,6/a/6ac84b879f02c9e71e8e8f607aa5f1962eafbb27
-G
-docs/algorithm/intro.md,d/9/d9e82f0a5ffed74f2c4d71cc7c5ec496b4deefc0
 I
 docs/distributed/intro.md,9/f/9fee5d6df3145f19a7e8101dbf3f97ecfbb553ba
 N
@@ -148,8 +144,6 @@ J
 docs/linux/_category_.json,5/7/57618a7d4b139322c2d4a005bc4cdc52d87cccac
 R
 "docs/linux/Network/_category_.json,8/d/8d965ca3431d487f1b0a883cef87b8ad66ffaf61
-W
-'docs/linux/Network/1.零拷贝相关.md,4/4/444f8e5c52ab6ae47d21ff4ffd98db5d398355fc
 V
 &docs/linux/Network/2.IO多路复用.md,5/3/53b81252db8334ac0a8a5327c8ecc323c08a1d89
 W
