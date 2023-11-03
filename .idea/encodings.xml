@@ -22,9 +22,30 @@
     <file url="file://$PROJECT_DIR$/docs/mysql/images" charset="GBK" />
     <file url="file://$PROJECT_DIR$/docs/network/1.base.md" charset="GBK" />
     <file url="file://$PROJECT_DIR$/docs/network/2.HTTP" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/network/2.HTTP/_category_.json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/docs/network/3.TCP" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/network/3.TCP/_category_.json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/docs/network/4.IP" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/network/4.IP/_category_.json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/docs/network/images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/redis/Redis持久化相关.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/redis/images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/redis/redis 主从复制.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/redis/redis_DATA_STRUCT.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/redis/redis事务.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/redis/redis哨兵.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/redis/redis应用相关.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/redis/redis数据类型.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/redis/redis概念相关.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/redis/redis线程模型.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/redis/redis缓存.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/redis/redis过期策略和内存淘汰算法.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/redis/redis集群.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/redis/缓存一致问题.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/sceneDesign/KV_database_design.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/sceneDesign/images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/sceneDesign/images/miaoShaLiuChengTu.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/sceneDesign/秒杀场景.md" charset="GBK" />
     <file url="file://$PROJECT_DIR$/docs/spring/common.md" charset="GBK" />
     <file url="file://$PROJECT_DIR$/docs/spring/images" charset="GBK" />
     <file url="file://$PROJECT_DIR$/docs/spring/spring-aop.md" charset="GBK" />

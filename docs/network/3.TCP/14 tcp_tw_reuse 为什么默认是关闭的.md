@@ -208,7 +208,7 @@ static bool tcp_validate_incoming(struct sock *sk, struct sk_buff *skb, const st
 
 假设有这样的场景，如下图：
 
-![img.png](tcp_reuse_close_场景1.png)
+![img.png](../images/3.tcp/tcp_reuse_close_场景1.png)
 
 过程如下：
 
@@ -244,7 +244,7 @@ RFC 1323 提到说收历史的 RST 报文是极不可能，之所以有这样的
 开启 tcp_tw_reuse 来快速复用 TIME_WAIT 状态的连接，如果第四次挥手的 ACK 报文丢失了，
 服务端会触发超时重传，重传第三次挥手报文，处于 syn_sent 状态的客户端收到服务端重传第三次挥手报文，则会回 RST 给服务端。如下图：
 
-![img.png](tcp_reuse_close_场景2.png)
+![img.png](../images/3.tcp/tcp_reuse_close_场景2.png)
 
 这时候有同学就问了，如果 TIME_WAIT 状态被快速复用后，刚好第四次挥手的 ACK 报文丢失了，
 那客户端复用 TIME_WAIT 状态后发送的 SYN 报文被处于 last_ack 状态的服务端收到了会发生什么呢？
