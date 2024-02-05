@@ -77,13 +77,18 @@ const config = {
         items: [
           {
             type: 'dropdown',
-            label: '文档列表',
+            label: '资格考试',
             position: 'left',
             items: [
               {
                 type: 'docSidebar',
-                sidebarId: 'zooKeeperSidebar',
-                label: 'zooKeeper',
+                sidebarId: 'basicLawsSidebar',
+                label: 'basicLaws',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'basicKnowledgeOfFinanceMarkerSidebar',
+                label: 'basic-knowledge-of-finance-market',
               }
             ]
           },
